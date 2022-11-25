@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    padding-top: 39px;
+    padding-bottom: 39px;
+}
+
+.content {
+    margin-top: 60px;
+}
+
+.txt {
+    margin-bottom: 50px;
+}
+
+.logos {
+    margin-top: 100px;
+}
